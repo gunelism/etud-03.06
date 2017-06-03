@@ -1,0 +1,9 @@
+c:\users\gunel\documents\visual studio 2015\Projects\etud03.06.2017\etud03.06.2017\bin\Debug\etud03.06.2017.exe.config
+c:\users\gunel\documents\visual studio 2015\Projects\etud03.06.2017\etud03.06.2017\bin\Debug\etud03.06.2017.exe
+c:\users\gunel\documents\visual studio 2015\Projects\etud03.06.2017\etud03.06.2017\bin\Debug\etud03.06.2017.pdb
+c:\users\gunel\documents\visual studio 2015\Projects\etud03.06.2017\etud03.06.2017\obj\Debug\etud03.06.2017.csprojResolveAssemblyReference.cache
+c:\users\gunel\documents\visual studio 2015\Projects\etud03.06.2017\etud03.06.2017\obj\Debug\etud03._06._2017.Form1.resources
+c:\users\gunel\documents\visual studio 2015\Projects\etud03.06.2017\etud03.06.2017\obj\Debug\etud03._06._2017.Properties.Resources.resources
+c:\users\gunel\documents\visual studio 2015\Projects\etud03.06.2017\etud03.06.2017\obj\Debug\etud03.06.2017.csproj.GenerateResource.Cache
+c:\users\gunel\documents\visual studio 2015\Projects\etud03.06.2017\etud03.06.2017\obj\Debug\etud03.06.2017.exe
+c:\users\gunel\documents\visual studio 2015\Projects\etud03.06.2017\etud03.06.2017\obj\Debug\etud03.06.2017.pdb
